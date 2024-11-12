@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Abhilove-Goyal/Abhilove-Goyal/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm Abhilove Goyal</h1>
 <h3 align="center">A passionate 2nd year Student aiming to become Data Scientist.</h3>
 
