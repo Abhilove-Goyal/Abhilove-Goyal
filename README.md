@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilove-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="abhilove-goyal" /> </p>
 
-- 🔭 I’m currently working on **3 Projects**
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Research Papers, Data Science Projects**
@@ -18,7 +16,7 @@
 
 - 📫 How to reach me **abhilovegoyal17@gmail.com**
 
-- 📄 Know about my experiences [https://abhilovegoyalresume.tiiny.site/](https://abhilovegoyalresume.tiiny.site/)
+- 📄 Connect with me [LinkedIN](https://www.linkedin.com/in/abhilove-goyal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
