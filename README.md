@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilove-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="abhilove-goyal" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **RAG and LLM Fine Tuning**
+  
 
 - 👯 I’m looking to collaborate on **Research Papers, Data Science Projects**
 
