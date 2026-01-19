@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhilove-Goyal/Abhilove-Goyal/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm Abhilove Goyal</h1>
-<h3 align="center">A passionate 2nd year Student aiming to become Data Scientist.</h3>
+<h3 align="center">A passionate 3rd year Student aiming to become Data Scientist.</h3>
 
 <img align="right" alt ="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
