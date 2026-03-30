@@ -174,7 +174,7 @@ Combines financial news NLP with time-series models to forecast market sentiment
 ╔══════════════════════════════════════════════════════════════╗
 ║   🎓  B.Tech in Computer Science (Data Science)              ║
 ║   🏛️  SRM Institute of Science and Technology, Chennai       ║
-║   📊  CGPA: 9.47 / 10.0  ⭐⭐⭐⭐⭐                           ║
+║   📊  CGPA: 9.47 / 10.0                                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
