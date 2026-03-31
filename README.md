@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhilove%20Goyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilove-goyal)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhilove--Goyal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhilove-Goyal)
 [![Email](https://img.shields.io/badge/Email-abhilovegoyal17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilovegoyal17@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%207011410631-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917011410631)
+
 
 </div>
 
@@ -94,38 +94,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔷 Enterprise Knowledge Base — RAG System
-> *Retrieval-Augmented Generation pipeline for intelligent document Q&A*
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![VectorDB](https://img.shields.io/badge/-Vector%20DB-6D28D9?style=flat-square)
-
-Enterprise-grade RAG pipeline with semantic search, document ingestion, and LLM integration. Enables intelligent Q&A over private knowledge bases with high accuracy and low hallucination.
-
----
-
-### 🔷 FinPulse — Financial Sentiment Forecasting
-> *NLP-driven market sentiment analysis with stock movement prediction*
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FF6F00?style=flat-square)
-![BERT](https://img.shields.io/badge/-BERT-4285F4?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-Combines financial news NLP with time-series models to forecast market sentiment and predict stock trends. Fine-tuned transformer models for domain-specific financial text.
-
----
 
 </div>
 
